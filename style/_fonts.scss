@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Gotham";
+  src: url("fonts/gotham/Gotham.eot");
+  src: url("fonts/gotham/Gotham.eot?#iefix") format("embedded-opentype"),
+    url("fonts/gotham/Gotham.woff2") format("woff2"),
+    url("fonts/gotham/Gotham.woff") format("woff"),
+    url("fonts/gotham/Gotham.ttf") format("truetype"),
+    url("fonts/gotham/Gotham.svg#SofiaProMedium") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham-Book";
+  src: url("fonts/gotham-book/Gotham-Book.eot");
+  src: url("fonts/gotham-book/Gotham-Book.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/gotham-book/Gotham-Book.woff") format("woff"),
+    url("fonts/gotham-book/Gotham-Book.ttf") format("truetype"),
+    url("fonts/gotham-book/Gotham-Book.svg#SofiaProMedium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Aleo";
+  src: url("fonts/Aleo-Regular/Aleo-Regular.eot");
+  src: url("fonts/Aleo-Regular/Aleo-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/Aleo-Regular/Aleo-Regular.woff2") format("woff2"),
+    url("fonts/Aleo-Regular/Aleo-Regular.woff") format("woff"),
+    url("fonts/Aleo-Regular/Aleo-Regular.ttf") format("truetype"),
+    url("fonts/Aleo-Regular/Aleo-Regular.svg#SofiaProMedium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
